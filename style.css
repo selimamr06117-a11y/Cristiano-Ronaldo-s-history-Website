@@ -1,0 +1,22 @@
+#Copyright{
+    text-align: center;
+}
+
+
+h1, h5, p{
+    color: black;
+    text-align: center;
+}
+
+#ronaldophoto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+.photos{
+    margin: 0 auto;
+    display: block;
+}
